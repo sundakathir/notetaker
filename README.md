@@ -11,6 +11,6 @@ Project Repo
 GitHub
 
 The following screenshot shows the behaviour of this applicaton
-1. Starting page ![index.html](./main/public/Assets/img/index.html.png)
+1. Starting page ![index.html](./main/public/Assets/img/index.png)
 
-2. Notes page ![Notes.html](./main/public/Assets/img/notes.html.png)
+2. Notes page ![Notes.html](./main/public/Assets/img/notes.png)
